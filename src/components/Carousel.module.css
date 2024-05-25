@@ -1,0 +1,10 @@
+.slideshow-background{
+  background: url('https://cdn.pixabay.com/photo/2018/08/12/15/29/hintersee-3601004_1280.jpg');
+}
+
+.shadow-custom {
+  /* box-shadow: -10px 0 20px rgba(0, 0, 0, 0.7), 100px 0 50px rgba(0, 0, 0, 0.7); */
+  box-shadow: 3px 0px 25px 22px rgba(0,0,0,0.2);
+}
+
+/* Additional styles if needed */
